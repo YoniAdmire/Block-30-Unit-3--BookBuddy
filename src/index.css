@@ -1,0 +1,41 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 0;
+}
+
+#logo-image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Add your own custom styles here */
+
+
+/* Set background color and center content */
+body {
+  font-family: Georgia, serif;
+  background-color: #f8f8f8;
+  margin: 0;
+  padding: 40px 0; /* Top and bottom spacing */
+  text-align: center;
+}
+
+#logo-image {
+  width: 30px;
+  margin-right: 10px;
+}
+
+/* Add margin to heading or main content */
+h2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px; /* adds spacing between links */
+  margin-bottom: 40px; /* optional space below nav */
+}
